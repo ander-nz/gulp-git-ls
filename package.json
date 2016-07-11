@@ -1,11 +1,18 @@
 {
-
   "name": "gulp-git-ls",
   "version": "0.0.1",
-  "private": true,
+  "main": "index.js",
+
+  "author": "Shane S. Anderson <s@ander.nz>",
+  "bugs": "https://github.com/ander-nz/gulp-git-ls/issues",
+  "description": "",
+  "homepage": "https://github.com/ander-nz/gulp-git-ls",
+  "keywords": [],
+  "license": "MIT",
+  "readme": "",
+  "repository": "ander-nz/gulp-git-ls",
 
   "peerDependencies": {
     "gulp": "*"
   }
-
 }
